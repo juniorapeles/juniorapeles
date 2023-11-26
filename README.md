@@ -10,7 +10,7 @@ Sou um desenvolvedor Java com experiência em projetos usando Spring e banco de 
 
 ### Projetos Destacados
 - [Portifólio](https://juniorapeles.github.io/portifolio-eli-francisco/): Meu Portfólio. ✨
-- [House of BooksV2](https://github.com/juniorapeles/house-of-booksV2): Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
+- [House of Books](https://github.com/juniorapeles/House-Of-Books): Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
 
 ### Mais Informações
 Para saber mais sobre meu perfil e experiência, confira abaixo meu:
