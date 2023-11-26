@@ -14,4 +14,5 @@ Sou um desenvolvedor Java com experiência em projetos usando Spring e banco de 
 - [House of BooksV2](https://github.com/juniorapeles/house-of-booksV2): Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
 
 ### Mais Informações
-Para saber mais sobre meu perfil e experiência, confira meu [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/develi/)🌐
+Para saber mais sobre meu perfil e experiência, confira abaixo meu:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/develi/)
