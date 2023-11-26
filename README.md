@@ -1,18 +1,17 @@
+## Olá, Sou o Eli Francisco
+
+### Sobre Mim
+Sou um desenvolvedor Java com experiência em projetos usando Spring e banco de dados PostgreSQL. Meu foco principal é desenvolver aplicativos web robustos e escaláveis. 💻🚀
+
+### Habilidades Principais
+- **Java:** Experiência sólida no desenvolvimento de aplicativos Java. ☕️
+- **Spring Framework:** Conhecimento avançado no uso do Spring para criar APIs RESTful. 🌱
+- **PostgreSQL:** Habilidade em projetar e gerenciar bancos de dados PostgreSQL. 🐘
 
 
-## Olá, Sou o Eli Francisco 
+### Projetos Destacados
+- [Portifólio]((https://juniorapeles.github.io/portifolio-eli-francisco/)): Meu Portifólio. ✨
+- [House of BooksV2](https://github.com/juniorapeles/house-of-booksV2): Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
 
-### Possuo as seguintes habilidades
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorapeles)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/juniorapeles/house-of-booksV2)
-
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/juniorapeles/house-of-booksV2)
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/juniorapeles/house-of-booksV2)
-
-### Para mais Informações sobre mim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/develi/)
-
+### Mais Informações
+Para saber mais sobre meu perfil e experiência, confira meu [LinkedIn](https://www.linkedin.com/in/develi/). 🌐
