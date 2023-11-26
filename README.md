@@ -8,9 +8,8 @@ Sou um desenvolvedor Java com experiência em projetos usando Spring e banco de 
 - **Spring Framework:** Conhecimento avançado no uso do Spring para criar APIs RESTful. 🌱
 - **PostgreSQL:** Habilidade em projetar e gerenciar bancos de dados PostgreSQL. 🐘
 
-
 ### Projetos Destacados
-- [Portifólio]([link](https://juniorapeles.github.io/portifolio-eli-francisco/)): Meu Portifólio. ✨
+- [Portifólio](https://juniorapeles.github.io/portifolio-eli-francisco/): Meu Portfólio. ✨
 - [House of BooksV2](https://github.com/juniorapeles/house-of-booksV2): Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
 
 ### Mais Informações
