@@ -1,7 +1,7 @@
 ## Olá, Sou o Eli Francisco
 
 ### Sobre Mim
-Sou um desenvolvedor Java com experiência em projetos usando Spring e banco de dados PostgreSQL. Meu foco principal é desenvolver aplicativos web robustos e escaláveis. 💻🚀
+Sou um desenvolvedor Java com experiência na área de varejo e projetos usando Spring e banco de dados PostgreSQL. Meu foco principal é desenvolver aplicativos web robustos e escaláveis. 💻🚀
 
 ### Habilidades Principais
 - **Java:** Experiência sólida no desenvolvimento de aplicativos Java. ☕️
