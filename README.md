@@ -9,7 +9,7 @@ Sou um desenvolvedor Java com experiência na área de varejo e projetos usando 
 - **PostgreSQL:** Habilidade em projetar e gerenciar bancos de dados PostgreSQL. 🐘
 
 ### Projetos Destacados
-- [Portifólio](https://portifolio-eli-francisco-1.onrender.com/): Meu Portfólio. ✨
+- [Portifólio](https://portifolio.juniorapeles.xyz/): Meu Portfólio. ✨
 - [House of Books](https://github.com/juniorapeles/House-Of-Books): Aplicativo web usando Spring Boot e PostgreSQL para gerenciar uma biblioteca online. Destaca-se pela arquitetura escalável e eficiente. 📚
 - [DsCatalog](https://github.com/juniorapeles/dscatalog): Bootcamp DsLearn, onde desenvolvi uma app Fullstack. 📚
 
