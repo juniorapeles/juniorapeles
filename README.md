@@ -13,7 +13,7 @@ Sou um desenvolvedor backend Java com experiência na área de varejo, especiali
 
 ### Projetos Destacados
 - [Portfólio](https://portifolio.juniorapeles.xyz/): Meu portfólio completo com projetos pessoais e desafios técnicos. ✨
-- [App Finance](https://github.com/juniorapeles/app-finance): API de controle financeiro com Spring Boot 3, JWT, PostgreSQL, Docker e CI/CD. 💰
+- [App Finance](https://github.com/juniorapeles/ja-app-finance): API de controle financeiro com Spring Boot 3, JWT, PostgreSQL, Docker e CI/CD. 💰
 - [House of Books](https://github.com/juniorapeles/House-Of-Books): Aplicação fullstack para gerenciamento de biblioteca com Spring Boot e PostgreSQL. 📚
 - [DsCatalog](https://github.com/juniorapeles/dscatalog): Projeto de bootcamp com integração front-end e back-end completo. 🛍️
 - [TaskFlow](https://github.com/juniorapeles/taskflow): API reativa com Spring WebFlux e MongoDB para gestão de tarefas. ✅
